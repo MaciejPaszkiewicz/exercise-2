@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.section-one {
+  margin-left: 49em;
+}
+
+.container {
+  margin-top: 1em;
+  background-color: rgb(203, 177, 229);
+  padding: 2em;
+  border-radius: 5%;
+  text-align: center;
+}
+.container .form-label {
+  transition: 0.5s;
+  text-align: center;
+}
+.container .form-control {
+  max-width: 30vw;
+  display: block;
+  margin: auto;
+  width: 500px;
+}
+.container .form-label:hover {
+  color: white;
+}
+.container button {
+  font-size: 20px;
+  padding: 0.5em 3em 0.5em 3em;
+  transition: 0.5s;
+}
+.container button:hover {
+  background-color: rgb(233, 205, 232);
+}/*# sourceMappingURL=style.css.map */
